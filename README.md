@@ -1,3 +1,4 @@
+![Masterhead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Dhairya Goel</h1>
 <h3 align="center">A passionate AI-ML Engineer and front-end developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9e44e9e7121056de5fefae5cc658e2cdd0190ba9a2f1efc3d4b0c36ba0487e04/68747470733a2f2f6d656469612e74656e6f722e636f6d2f77413847785f55716e593441414141432f636f64696e672e676966"
