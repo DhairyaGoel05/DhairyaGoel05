@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhairya Goel</h1>
 <h3 align="center">A passionate AI-ML Engineer and front-end developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/OyGx.gif"
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9e44e9e7121056de5fefae5cc658e2cdd0190ba9a2f1efc3d4b0c36ba0487e04/68747470733a2f2f6d656469612e74656e6f722e636f6d2f77413847785f55716e593441414141432f636f64696e672e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyagoel05&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyagoel05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhairyagoel05" alt="dhairyagoel05" /></a> </p>
